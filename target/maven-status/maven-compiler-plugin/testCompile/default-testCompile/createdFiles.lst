@@ -1,0 +1,8 @@
+base\DriverInitializePage.class
+logger\LoggerClass.class
+Script\NewTest.class
+base\BaseInitialPage.class
+Script\TestItestcontext.class
+com\myproject\configManager\PropertiesManager.class
+Script\excelreading.class
+Script\TestOne.class

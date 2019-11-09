@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+<parameter name ="driver" value ="chromedriver"></parameter>
+<parameter name ="baseurl" value ="www.google.com"></parameter>
+  <test name="Test">
+    <classes>
+      <class name="Script.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
